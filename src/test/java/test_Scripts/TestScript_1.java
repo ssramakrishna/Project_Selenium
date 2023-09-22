@@ -26,7 +26,7 @@ public class TestScript_1 extends Base_Class {
 		lp.enterValueInPwd(pwd);
 
 //		test.log(LogStatus.INFO, test.addScreenCapture(getPhoto(driver)));
-//		
+//		s
 		lp.clickLoginButton();
 //		
 		test.log(LogStatus.INFO, "User is logged in");
