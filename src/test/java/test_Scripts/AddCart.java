@@ -68,7 +68,7 @@ public class AddCart extends Base_Class {
 
 		System.out.println("LOGGING OUT WITHIN 2 SEC");
 		
-		System.out.println("Rama");
+		System.out.println("Ram");
 
 	}
 
